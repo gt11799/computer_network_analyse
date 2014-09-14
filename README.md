@@ -15,3 +15,7 @@ ugraph_compute 和 ugraph_compute2 是内含几个处理无向图的模块，包
 
 为了节省画图时间（常常要反复修改），我把生成的数据存放在文件中，画图时从中读取。因此文件中把读取，产生网络，攻击网络全部注释。
 只留下了画图的部分。
+
+具体说明参照：http://blog.csdn.net/gt11799/article/details/39273197
+
+contact me：gting405@163.com
